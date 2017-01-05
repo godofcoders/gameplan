@@ -1,0 +1,2 @@
+# gameplan
+initiating git
